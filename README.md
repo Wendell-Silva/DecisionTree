@@ -1,2 +1,2 @@
 # DecisionTree
-Um projeto em Python utilizando Árvore de Decisão
+Um projeto em Python utilizando Árvore de Decisão.
